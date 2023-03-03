@@ -18,6 +18,7 @@
         .player-buttons {
           background-color:black;
           flex-grow: 0;
+          display: flex
         }
         .player-button {
           width: 30px;
@@ -35,6 +36,17 @@
           color: white;
           background-color:transparent;
           font-size: 150%;
+        }
+        .fullscreen-button {
+          width: 30px;
+          margin: 5px 10px;
+          cursor: pointer;
+          color: white;
+          background-color:transparent;
+          font-size: 150%;
+        }
+        .space {
+          flex-grow: 1;
         }
 
       </style>
@@ -55,7 +67,10 @@
     <button class="js-mute-button volume-button" hidden>
       <i class="fa fa-volume-up" aria-hidden="true"></i>
     </button>
-<!--        <button class="js-fullscreen-button">Fullscreen</button>-->
+    <div class="space"></div>
+    <button class="js-fullscreen-button fullscreen-button">
+      <i class="fa fa-expand" aria-hidden="true"></i>
+    </button>
 <!--        <div style="color: black;">-->
 <!--            <span class="js-current-time"></span>-->
 <!--            —-->
