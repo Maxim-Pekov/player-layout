@@ -1,0 +1,43 @@
+.div-player {
+  width: 800px;
+  height: 600px;
+  box-shadow: 0px 0px 20px 10px rgba(168, 168, 168, 0.5);
+  display: flex;
+  flex-direction: column;
+}
+.js-video-container {
+  flex-grow: 1;
+}
+.player-buttons {
+  background-color:black;
+  flex-grow: 0;
+  display: flex
+}
+.player-button {
+  width: 30px;
+  margin: 5px 5px;
+  border-style:none;
+  cursor:pointer;
+  color:white;
+  background-color:transparent;
+  font-size: 150%;
+}
+.volume-button {
+  width: 30px;
+  margin: 5px 5px;
+  cursor: pointer;
+  color: white;
+  background-color:transparent;
+  font-size: 150%;
+}
+.fullscreen-button {
+  width: 30px;
+  margin: 5px 10px;
+  cursor: pointer;
+  color: white;
+  background-color:transparent;
+  font-size: 150%;
+}
+.space {
+  flex-grow: 1;
+}
