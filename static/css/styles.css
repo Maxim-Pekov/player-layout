@@ -14,27 +14,11 @@
   display: flex
 }
 .player-button {
-  width: 30px;
+  width: 35px;
   margin: 5px 5px;
   border-style:none;
   cursor:pointer;
   color:white;
-  background-color:transparent;
-  font-size: 150%;
-}
-.volume-button {
-  width: 30px;
-  margin: 5px 5px;
-  cursor: pointer;
-  color: white;
-  background-color:transparent;
-  font-size: 150%;
-}
-.fullscreen-button {
-  width: 30px;
-  margin: 5px 10px;
-  cursor: pointer;
-  color: white;
   background-color:transparent;
   font-size: 150%;
 }
