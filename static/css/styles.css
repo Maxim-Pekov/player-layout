@@ -16,7 +16,8 @@
 }
 .player-button {
   width: 35px;
-  margin: 5px 5px;
+  height: 35px;
+  margin: 0px 5px;
   border-style:none;
   cursor:pointer;
   color:white;
