@@ -23,7 +23,21 @@
   color:white;
   background-color:transparent;
   font-size: 20px;
+
+}
+.player-time{
+  width: 35px;
+  height: 30px;
+  margin: 0px 20px 0px 0px;
+  border-style:none;
+  cursor:pointer;
+  color:white;
+  background-color:transparent;
+  font-size: 17px;
+  style="color: white;"
+  font-family: 'Roboto', sans-serif;
 }
 .space {
+  margin: 0px 2px 3.5px 0.6px;
   flex-grow: 1;
 }
