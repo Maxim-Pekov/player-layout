@@ -12,7 +12,8 @@
   background-color:black;
   flex-grow: 0;
   display: flex;
-  align-items: baseline;
+  align-items: center;
+  justify-content: flex-start;
 }
 .player-button {
   width: 35px;
@@ -26,18 +27,26 @@
 
 }
 .player-time{
-  width: 35px;
-  height: 30px;
-  margin: 0px 20px 0px 0px;
+
+  width: 60px;
+  height: 31px;
+  margin: 5px 0px 0px 0px;
   border-style:none;
-  cursor:pointer;
-  color:white;
+  cursor: pointer;
+  color: white;
   background-color:transparent;
   font-size: 17px;
   style="color: white;"
   font-family: 'Roboto', sans-serif;
 }
+.player-time, span{
+  display: block;
+  width: 60px;
+}
 .space {
-  margin: 0px 2px 3.5px 0.6px;
+  height: 5px;
+  margin: 0px 10px 3.7px 0px;
+  background-color: grey;
+  border-radius: 3px;
   flex-grow: 1;
 }
