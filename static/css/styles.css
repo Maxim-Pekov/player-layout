@@ -61,9 +61,16 @@
   border-radius: 2.5px;
 }
 .spacex:hover .dot {
+  transition-property: opacity;
+  transition-duration: 300ms;
+  transition-timing-function: ease-in;
   opacity: 1;
+
 }
 .dot {
+  transition-property: opacity;
+  transition-duration: 300ms;
+  transition-timing-function: ease-out;
   margin: -3px 0px 0px 0px;
   height: 8px;
   width: 8px;
