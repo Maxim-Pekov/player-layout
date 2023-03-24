@@ -60,6 +60,9 @@
   background-color: red;
   border-radius: 2.5px;
 }
+.spacex:hover .dot {
+  opacity: 1;
+}
 .dot {
   margin: -3px 0px 0px 0px;
   height: 8px;
@@ -70,7 +73,5 @@
   border-width: 3px;
   border-color: white;
   box-shadow: 2px 2px 5px gray;
-}
-.spacex:hover .dot {
-  background-color: blue;
+  opacity: 0;
 }
