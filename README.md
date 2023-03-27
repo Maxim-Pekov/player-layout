@@ -12,6 +12,7 @@
 * После нажатия на кнопку запуска, она сменяется кнопкой паузы.
 * Кнопка выключения/включения звука
 * Кнопка полноэкранного просмотра видео
+* Прогресс бар с указанием текщего времени видео и длительностью.
 
 
 ## Установка
@@ -50,7 +51,28 @@ pip install - r requirements.txt
 
 4. Запустите плеер открыв в браузере файл index.html
 
+## About me
+
+[<img align="left" alt="maxim-pekov | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />https://www.linkedin.com/in/maxim-pekov/](https://www.linkedin.com/in/maxim-pekov/)
+</br>
+
+[<img align="left" alt="maxim-pekov" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Telegram_Messenger.png" />https://t.me/MaxPekov/](https://t.me/MaxPekov/)
+</br>
+
+[//]: # (Карточка профиля: )
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxim-Pekov&theme=solarized_dark)
+
+[//]: # (Статистика языков в коммитах:)
+
+[//]: # (Статистика языков в репозиториях:)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maxim-Pekov&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxim-Pekov&theme=solarized_dark)
 
 
+[//]: # (Статистика профиля:)
 
+[//]: # (Данные по коммитам за сутки:)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxim-Pekov&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maxim-Pekov&theme=solarized_dark)
 
+[//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=Maxim-Pekov&#41;]&#40;https://github.com/ryo-ma/github-profile-trophy&#41;)
